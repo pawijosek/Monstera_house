@@ -310,7 +310,7 @@ main .about-us .about-content .about-text p {
 main .banner {
   position: relative;
   height: 50vh;
-  background-image: url("/img/dep377-lake-8844310_1920.jpg");
+  background-image: url("img/dep377-lake-8844310_1920.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
